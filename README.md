@@ -1,7 +1,7 @@
 
 # Todo App
 
-It uses todo list apps to make daily, weekly plans and keep track of them.ToDo app was created with React.🔥
+It uses todo list apps to make daily, weekly plans and keep track of them. Todo App was created with React.🔥
 
 ## Features
 - Create a task
