@@ -5,10 +5,10 @@ It uses todo list apps to make daily, weekly plans and keep track of them.ToDo a
 
 ## Features
 - Create a task
-- Mark as completed
-- Mark as a all completed
+- Mark as completed item
+- Mark as all completed items
 - Delete a task
-- Filter (active or complete)
+- Filter (active or completed items)
 - Data saved through local storage 📦 
 
   
